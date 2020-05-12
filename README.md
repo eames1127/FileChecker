@@ -5,10 +5,10 @@ The purpose of this PowerShell script is to look in the specified directory and 
 
 If not it states that there are files missing and lists the missing files.
 
-## Prerequistes
+## Prerequisites
 To be able to use this script you must have the following.
 
-1. Administrator privlages in PowerShell.
+1. Administrator privileges in PowerShell.
 2. The ability to run PowerShell scripts on the machine running the script.
 (set-executionpolicy remotesigned)
 
